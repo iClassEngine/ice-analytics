@@ -49,7 +49,7 @@ class Admin extends Admin_Controller {
 		}
 		require_once(EXTPATH.'analytics/libraries/gapi.class.php');
 		
- 		$this->template->title(lang('lang_blog_posts'));
+ 		$this->template->title(lang('analytics'));
 		$this->template->set_metadata('stylesheet', base_url() . 'includes/addons/analytics/css/accessory.css', 'link');
 		
 		$ga_settings = $this->analytics_settings;
@@ -118,7 +118,7 @@ class Admin extends Admin_Controller {
 	{
 		$data['nav'] = 'settings';
 		
-		$this->template->title('Analytics Settings');
+		$this->template->title(lang('analytics_settings'));
 		
 		if (is_array($this->analytics_settings))
 		{
