@@ -14,7 +14,7 @@ Administration
 
 ## Compatibility
 
-Analytics requires iClassEngine 1.0.3 and PHP 5+, and is MSM-compatible. IIS servers need to have OpenSSL enabled as well.
+Analytics requires iClassEngine 1.0.3 and PHP 5+. IIS servers need to have OpenSSL enabled as well.
 
 ## Credits
 
