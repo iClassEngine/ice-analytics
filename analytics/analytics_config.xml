@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="analytics">
+	<title>Analytics</title>
+	<description>Google Analytics</description>
+	<version>v1.0</version>
+	<order>100</order>
+</module>
