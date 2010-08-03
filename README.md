@@ -1,6 +1,6 @@
 # iClassEngine Analytics
 
-Analytics is an iClassEngine add-on which displays an overview of your site's Google Analytics statistics. The accessory displays quick stats for Today and Yesterday (visits, pageviews, average pageviews per visit, and average visit length), with increased stats for the past 31 days (visits, pageviews, average pageviews per visit, average visit length, bounce rate, percentage of new visits, top content and top referrers). The 31-day stats also include sparklines to visualize site activity.
+Analytics is an iClassEngine add-on which displays an overview of your site's Google Analytics statistics. The add-on displays quick stats for Today and Yesterday (visits, pageviews, average pageviews per visit, and average visit length), with increased stats for the past 31 days (visits, pageviews, average pageviews per visit, average visit length, bounce rate, percentage of new visits, top content and top referrers). The 31-day stats also include sparklines to visualize site activity.
 
 ## Instructions
 
