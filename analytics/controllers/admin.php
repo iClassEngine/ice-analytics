@@ -118,7 +118,7 @@ class Admin extends Admin_Controller {
 	{
 		$data['nav'] = 'settings';
 		
-		$this->template->title(lang('analytics_settings'));
+		$this->template->title('Analytics Settings');
 		
 		if (is_array($this->analytics_settings))
 		{
